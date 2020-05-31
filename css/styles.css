@@ -9,8 +9,15 @@ body{
     font-size: 36px;
     padding-top: 20px;
   }
-  
+
   .container{
     width: 80%;
     margin: auto;
+  }
+
+  #year-input{
+    border-radius: 5px;
+    width: 60px;
+    height: 20px;
+    box-shadow: 2px 2px #000000;
   }
